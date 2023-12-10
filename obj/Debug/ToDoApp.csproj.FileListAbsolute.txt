@@ -1,0 +1,11 @@
+D:\Projects\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+D:\Projects\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+D:\Projects\C#\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.SuggestedBindingRedirects.cache
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.Properties.Resources.resources
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.GenerateResource.cache
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
+D:\Projects\C#\ToDoApp\ToDoApp\obj\Debug\ToDoApp.ToDoApp.resources
